@@ -1,1 +1,21 @@
 /* write your override styles here */
+.tag-1 {
+  background: url(../images/tag-1.png) no-repeat;
+  z-index: 7;
+  display: block;
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-left:35px;
+  padding-right:49px;
+  border:2px solid grey;
+  color:blue;
+  text-decoration:underline;
+  font-size:44px;
+ font-weight:400;
+
+}
+
+#wall .tag-1{
+  display:none;
+}
+
